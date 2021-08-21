@@ -4,3 +4,6 @@ Demonstrates the application of MVC architecture using JSP servlet and JDBC as a
 
 ![JAVA_PACKAGE_OVERVIEW_19PD05_19PD19](https://user-images.githubusercontent.com/89288089/130311688-89f9758e-7efd-4703-bd4c-4d052ef803e7.png)
 
+
+Further clarification on : https://youtu.be/ozd9XKId5mY
+
